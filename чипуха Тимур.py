@@ -1,0 +1,7 @@
+slovo = input("Кто? ")
+slovo1 = input("С кем? " )
+slovo2 = input("Что делал? ")
+slovo3 = input("Где? ")
+slovo4 = input("Когда? ")
+slovo5 = input("Чем кончилось? ")
+print(slovo + "." + slovo1 + "." + slovo2 + "." + slovo3 + "." + slovo4 + "." + slovo5)

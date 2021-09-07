@@ -1,0 +1,5 @@
+name = input(" Введите первое число ")
+name1 = input(" Введите второе число ")
+name1 = int(name1)
+name = int(name)
+print(name + name1)

@@ -1,0 +1,16 @@
+import pyautogui
+import time
+pyautogui.moveTo(1863 , 34)
+pyautogui.click(button = 'right')
+pyautogui.moveTo(1853 , 220)
+time.sleep(5)
+pyautogui.moveTo(1471, 392)
+pyautogui.click()
+time.sleep(5)
+pyautogui.doubleClick()
+time.sleep(1)
+pyautogui.moveTo(1863 , 34)
+pyautogui.doubleClick()
+pyautogui.moveTo(979 , 592)
+pyautogui.click()
+pyautogui.write('Zubnojv8:00', interval=0.50)

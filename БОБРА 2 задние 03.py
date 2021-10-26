@@ -1,0 +1,8 @@
+number = int(input('Введите число а компьютер еге умножит в 7 раз.'))
+print(number)
+print(number*number)
+print(number*number*number)
+print(number*number*number*number)
+print(number*number*number*number*number)
+print(number*number*number*number*number*number)
+print(number*number*number*number*number*number*number)
